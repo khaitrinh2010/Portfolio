@@ -26,7 +26,7 @@ export const AboutMe = () => {
                                 {" "}
                                 Get In Touch
                             </a>
-                            <a href="https://drive.google.com/file/d/1RH7IpFWUwggsdf9hrIXk8U8DXKoupewg/view?usp=drive_link"
+                            <a href="https://drive.google.com/file/d/1GDi35Sy1MR9bVf85kNWfJdHmiV8EZbg5/view?usp=sharing"
                                target="_blank"
                                rel="noopener noreferrer"
                                className="px-6 py-2 rounded-full border border-primary text-primary hover-bg-primary/10 transition-colors duration-300">
